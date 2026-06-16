@@ -11,6 +11,12 @@ A responsive and user-friendly online food ordering web application developed to
 <img width="959" height="479" alt="Screenshot 2026-06-16 023433" src="https://github.com/user-attachments/assets/f3c60d0d-4be9-4105-9c28-6c674d455e49" />
 <img width="947" height="475" alt="Screenshot 2026-06-16 023411" src="https://github.com/user-attachments/assets/14dd5149-6473-4d93-840c-b6798ad00a1f" />
 
+## 📥 Database Download
+If you need only the database file to set up the system, you can directly download the SQL dump file by clicking the button below:
+
+[![Download SQL Database](https://img.shields.io/badge/Download-MySQL_Database_SQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/birru2217/online-food-ordering-system/raw/main/database/food_ordering_system.sql)
+
+---
 
 ## 🚀 Features
 
@@ -27,11 +33,15 @@ A responsive and user-friendly online food ordering web application developed to
 - Product management (Add, Edit, Delete)
 - Order management (Update status: Preparing, On the way, Delivered)
 
+---
+
 ## 💻 Technologies Used
 - **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
 - **Local Server:** WAMP / XAMPP
+
+---
 
 ## ⚙️ Installation & Setup
 
@@ -42,8 +52,10 @@ To run this project locally on your machine, follow these steps:
 3. **Database Setup:**
    - Open phpMyAdmin (`http://localhost/phpmyadmin`).
    - Create a new database named `food_ordering_system`.
-   - Import the `food_ordering_system.sql` file located in the `database/` folder.
+   - Import the **`food_ordering_system.sql`** file (which you can download from the link above) located in the `database/` folder.
 4. **Run the Project:** Open your browser and go to `http://localhost/food_ordering_system`.
+
+---
 
 ## 👥 Developers (CSE 3rd Year Student - Bule Hora University)
 - Biruk Tadesse
