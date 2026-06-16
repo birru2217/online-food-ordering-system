@@ -38,8 +38,5 @@ To run this project locally on your machine, follow these steps:
    - Import the `food_ordering_system.sql` file located in the `database/` folder.
 4. **Run the Project:** Open your browser and go to `http://localhost/food_ordering_system`.
 
-## 👥 Developers (CSE 3rd Year Students - Bule Hora University)
-- Ameya Tolesa
-- Dabesa Getachew
-- Abdulsemed Kedir
-- Ayana Chenalew
+## 👥 Developers (CSE 3rd Year Student - Bule Hora University)
+- Biruk Tadesse
